@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    LeadsControl
                 </div>
 
                 <div class="links">
